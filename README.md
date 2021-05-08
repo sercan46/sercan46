@@ -14,5 +14,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sercan46&show_icons=true&locale=en&layout=compact" alt="sercan46" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sercan46&show_icons=true&locale=en" alt="sercan46" /></p>
